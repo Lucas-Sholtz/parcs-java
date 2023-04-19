@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="out">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/Count.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/Solver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/parcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
